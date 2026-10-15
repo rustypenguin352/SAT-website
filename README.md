@@ -2,9 +2,10 @@
 A website where you can practice, study, and learn all in one place.
 
 Kinda works like Wordle, where you have to answer one question. If you get it wrong, there is a detailed explanation of why it was wrong and what the correct answer is. If you get it right, you answer 4 more questions and get a streak boost.
-Flicks:<img width="1710" height="1107" alt="Screenshot 2026-10-15 at 5 25 54 PM" src="https://github.com/user-attachments/assets/75cfddc2-2393-46e1-9ab5-d6297265d66b" />
-<img width="1710" height="1107" alt="Screenshot 2026-10-15 at 5 35 00 PM" src="https://github.com/user-attachments/assets/383ba001-3ecd-4112-8100-b2485c84b81f" />
-<img width="1710" height="1107" alt="Screenshot 2026-10-15 at 5 34 52 PM" src="https://github.com/user-attachments/assets/06432ccb-d56f-4faf-b52e-090348e3adfd" />
-<img width="1710" height="1107" alt="Screenshot 2026-10-15 at 5 34 44 PM" src="https://github.com/user-attachments/assets/21cbffcb-3db8-4cac-b45e-050dad4d1db0" />
+Flicks:<img width="1650" height="847" alt="Screenshot 2026-10-15 at 5 37 11 PM" src="https://github.com/user-attachments/assets/16c15a49-4bde-4747-9f09-392d50bcebd9" />
+<img width="1647" height="802" alt="Screenshot 2026-10-15 at 5 37 41 PM" src="https://github.com/user-attachments/assets/17855635-1611-4b17-8c92-4cd839d27c4a" />
+<img width="1644" height="798" alt="Screenshot 2026-10-15 at 5 38 16 PM" src="https://github.com/user-attachments/assets/201cc083-7657-4a49-93ad-1d769308685a" />
+<img width="1651" height="807" alt="Screenshot 2026-10-15 at 5 37 23 PM" src="https://github.com/user-attachments/assets/77370487-c9fc-4f08-8e22-eea9c8da2500" />
+
 
 
